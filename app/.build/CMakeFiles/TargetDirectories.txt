@@ -1,8 +1,0 @@
-/home/tpsych/CMakePractice/app/.build/CMakeFiles/edit_cache.dir
-/home/tpsych/CMakePractice/app/.build/CMakeFiles/rebuild_cache.dir
-/home/tpsych/CMakePractice/app/.build/lib/CMakeFiles/edit_cache.dir
-/home/tpsych/CMakePractice/app/.build/lib/CMakeFiles/rebuild_cache.dir
-/home/tpsych/CMakePractice/app/.build/lib/CMakeFiles/hello_lib.dir
-/home/tpsych/CMakePractice/app/.build/src/CMakeFiles/edit_cache.dir
-/home/tpsych/CMakePractice/app/.build/src/CMakeFiles/rebuild_cache.dir
-/home/tpsych/CMakePractice/app/.build/src/CMakeFiles/hello.dir
