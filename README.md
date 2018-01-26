@@ -1,2 +1,2 @@
-# gitPractice
-for learning git
+# CMakePractice
+for learning cmake
