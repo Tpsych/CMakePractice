@@ -1,2 +1,2 @@
 # CMakePractice
-for learning cmake
+For learning cmake
