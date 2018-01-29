@@ -1,2 +1,3 @@
 # CMakePractice
-for learning cmake
+For learning cmake
+Check how pull request works
