@@ -1,2 +1,2 @@
 # CMakePractice
-C programming practice
+Git practice
