@@ -1,2 +1,0 @@
-# CMakePractice
-Git practice
