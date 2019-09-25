@@ -1,3 +1,0 @@
-[submodule "submodule_practice"]
-	path = submodule_practice
-	url = https://github.com/Tpsych/cmake-examples.git
